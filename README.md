@@ -1,4 +1,4 @@
-# Johno API [![Build Status](https://travis-ci.org/johnotander/api.svg?branch=master)](https://travis-ci.org/johnotander/api)
+# johno-api [![Build Status](https://travis-ci.org/johnotander/api.svg?branch=master)](https://travis-ci.org/johnotander/api)
 
 An API for data about me (used to build my splash page).
 
