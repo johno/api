@@ -1,4 +1,4 @@
-# Johno API
+# Johno API [![Build Status](https://travis-ci.org/johnotander/api.svg?branch=master)](https://travis-ci.org/johnotander/api)
 
 An API for data about me (used to build my splash page).
 
@@ -24,7 +24,7 @@ MIT
 
 ## Contributing
 
-1. Fork it ( http://github.com/johnotander/urls_for_humans/fork )
+1. Fork it ( http://github.com/johnotander/api/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
