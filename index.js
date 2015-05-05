@@ -6,8 +6,11 @@ var data = {
   gravatar_email: 'johnotander@gmail.com',
   twitter: '4lpine',
   github: 'johnotander',
+  keybase: 'johno',
   url: 'http://johnotander.com',
-  avatar: 'https://gravatar.com/avatar/2e52ef263083c77e2a0a24454dc6f369.png'
+  company_url: 'https://a10networks.com',
+  avatar: 'https://gravatar.com/avatar/2e52ef263083c77e2a0a24454dc6f369.png',
+  about: "I'm a web developer and designer living in Boise, Idaho.\n\nI don't like to limit myself to developing with particular tools or technologies, but I'm most experienced with Ruby on Rails, Javascript, and CSS. I'm pretty devoted to making the web a better place: This means considering all users on all devices. This means showing empathy. This means lightweight, responsive websites that are mobile first.\n\nI love leveraging build tools and automating every process I can. I enjoying experimenting with new technology and incorporating it into my workflow when appropriate. I <3 open source and find great value in metrics, especially in terms of website performance.\n\nI also like skiing and soccer. A lot."
 }
 
 data.education = [{
