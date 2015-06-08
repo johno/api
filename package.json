@@ -1,6 +1,6 @@
 {
   "name": "johno-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An API for John Otander.",
   "main": "index.js",
   "scripts": {
