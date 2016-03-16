@@ -10,7 +10,7 @@ var data = {
   url: 'http://johnotander.com',
   company_url: 'https://a10networks.com',
   avatar: 'https://gravatar.com/avatar/2e52ef263083c77e2a0a24454dc6f369.png',
-  about: "I'm a web developer and designer living in Boise, Idaho.\n\nI don't like to limit myself to developing with particular tools or technologies, but I'm most experienced with Ruby on Rails, Ember, Javascript, and CSS. I'm pretty devoted to making the web a better place: This means considering all users on all devices. This means showing empathy. This means lightweight, responsive websites that are mobile first.\n\nI love leveraging build tools and automating every process I can. I enjoy experimenting with new technology and incorporating it into my workflow when appropriate. I <3 open source and find great value in metrics, especially in terms of website performance.\n\nI also like skiing and soccer. A lot."
+  about: "I'm a web developer and designer living in Boise, Idaho.\nI don't like to limit myself to developing with particular tools or technologies, but I'm most experienced with Ruby on Rails, Ember, Javascript, and CSS. I'm pretty devoted to making the web a better place: This means considering all users on all devices. This means showing empathy. This means lightweight, responsive websites that are mobile first.\nI love leveraging build tools and automating every process I can. I enjoy experimenting with new technology and incorporating it into my workflow when appropriate. I <3 open source and find great value in metrics, especially in terms of website performance.\nI also like skiing and soccer. A lot."
 }
 
 data.education = [{
@@ -34,25 +34,30 @@ data.projects = {
     url: 'http://pixyll.com',
     github_url: 'https://github.com/johnotander/pixyll',
   }, {
-    name: 'Furtive',
-    description: 'A forward-thinking, lightweight, CSS microframework.',
-    url: 'http://furtive.co',
-    github_url: 'https://github.com/johnotander/furtive',
+    name: 'Tachyons',
+    description: 'Functional CSS for humans.',
+    url: 'http://tachyons.io',
+    github_url: 'https://github.com/tachyons-css',
   }, {
     name: 'CSS Stats',
     description: 'Webapp and node utilities to visualize various stats about your css.',
     url: 'http://cssstats.com',
     github_url: 'https://github.com/cssstats',
   }, {
-    name: 'Scrutinize',
-    description: 'Scrutinize a url by analyzing CSS, HTML, accessibility, images, pagespeed, etc.',
-    url: 'https://github.com/johnotander/scrutinize',
-    github_url: 'https://github.com/johnotander/scrutinize',
-  }, {
     name: 'Immutable CSS',
     description: 'A linter for immutable CSS.',
     url: 'https://github.com/johnotander/immutable-css',
     github_url: 'https://github.com/johnotander/immutable-css',
+  }, {
+    name: 'Furtive',
+    description: 'A forward-thinking, lightweight, CSS microframework.',
+    url: 'http://furtive.co',
+    github_url: 'https://github.com/johnotander/furtive',
+  }, {
+    name: 'Scrutinize',
+    description: 'Scrutinize a url by analyzing CSS, HTML, accessibility, images, pagespeed, etc.',
+    url: 'https://github.com/johnotander/scrutinize',
+    github_url: 'https://github.com/johnotander/scrutinize',
   }, {
     name: 'Ember Gravatar',
     description: 'An Ember component for gravatar image tags.',
