@@ -29,15 +29,20 @@ data.education = [{
 
 data.projects = {
   featured: [{
-    name: 'Pixyll',
-    description: 'A simple, beautiful Jekyll theme that is mobile first.',
-    url: 'http://pixyll.com',
-    github_url: 'https://github.com/johnotander/pixyll',
+    name: 'Random A11y',
+    description: 'Vote on random, accessible color combinations',
+    url: 'http://randoma11y.com',
+    github_url: 'https://github.com/johnotander/random-a11y'
   }, {
     name: 'Tachyons',
     description: 'Functional CSS for humans.',
     url: 'http://tachyons.io',
     github_url: 'https://github.com/tachyons-css',
+  }, {
+    name: 'Pixyll',
+    description: 'A simple, beautiful Jekyll theme that is mobile first.',
+    url: 'http://pixyll.com',
+    github_url: 'https://github.com/johnotander/pixyll',
   }, {
     name: 'CSS Stats',
     description: 'Webapp and node utilities to visualize various stats about your css.',
