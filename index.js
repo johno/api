@@ -40,15 +40,15 @@ data.projects = {
     url: 'http://tachyons.io',
     github_url: 'https://github.com/tachyons-css',
   }, {
-    name: 'Pixyll',
-    description: 'A simple, beautiful Jekyll theme that is mobile first.',
-    url: 'http://pixyll.com',
-    github_url: 'https://github.com/johnotander/pixyll',
-  }, {
     name: 'CSS Stats',
     description: 'Webapp and node utilities to visualize various stats about your css.',
     url: 'http://cssstats.com',
     github_url: 'https://github.com/cssstats',
+  }, {
+    name: 'Pixyll',
+    description: 'A simple, beautiful Jekyll theme that is mobile first.',
+    url: 'http://pixyll.com',
+    github_url: 'https://github.com/johnotander/pixyll',
   }, {
     name: 'Immutable CSS',
     description: 'A linter for immutable CSS.',
