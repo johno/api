@@ -1,7 +1,7 @@
 var data = {
   name: 'John Otander',
   title: 'Software Engineer',
-  company: 'A10 Networks',
+  company: 'Clearbit',
   email: 'johnotander@gmail.com',
   gravatar_email: 'johnotander@gmail.com',
   twitter: '4lpine',
